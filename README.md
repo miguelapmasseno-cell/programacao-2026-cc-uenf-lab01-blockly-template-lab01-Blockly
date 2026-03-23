@@ -44,13 +44,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Primeiro eu mudei a cor da linha e utilizei um loop para fazer a estrela, após o loop da estrela em si, fiz com que a tartaruga se levantasse, fosse pra frente e abaixasse de novo, e fiz um loop disso 3 vezes para fazer as 3 estrelas. Após a conclusão das estrelas, fiz a tartaruga se levantar de novo e fazer um circulo, usei um loop simples de ir para frente e para tras e virar 1 grau. apos isso, fiz a tartaruga andar para uma seção do circulo e pinta-lo de preto para fazer a lua ficar crescente.
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** O loop teria que fazer 6 repetições, assim como o numero de lados de um hexagono, e a tartaruga teria que virar 60 gruas para cada linha desenhada
   
-**B)** Escreva aqui...
+**B)** Eu faria a tartaruga primeiro olhar 120 graus a direita, ja que ela deve estar na parte de baixo do primeiro hexagono, fazendo depois ele fazer mais um hexagono, apos isso, faria a tartaruga ir 100 para frente apos virar 120 para a esquerda, assim fazendo mais um hexagono e repetindo o que fiz no primeiro hexagono pro segundo, fazendo 4 hexagonos
   
-**C)** Escreva aqui...
+**C)** Primeiro para o hexagono, como eu queria uma figura de 6 lados, eu dividi 360 por 6, e para virar 120, apenas dobrei o que a tartarua vira normalmente, ja que ela assim daria meia volta
 
 ---
